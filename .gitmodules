@@ -1,0 +1,5 @@
+[submodule "flutter_ui"
+    path = isaac_app/flutter_ui
+    url =  https://github.com/Team-Isaac-Polito/ros_app.git
+    branch = main
+]
