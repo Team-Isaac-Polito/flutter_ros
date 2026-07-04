@@ -11,6 +11,8 @@
   <build_depend>clang</build_depend>
   <build_depend>ninja-build</build_depend>
   <build_depend>pkg-config</build_depend>
+  <build_depend>gtk3</build_depend>
+  <build_depend>libglib-dev</build_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
